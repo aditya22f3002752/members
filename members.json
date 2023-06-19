@@ -78,16 +78,16 @@
         "position" : "Technical Head",
     },
     {
-        "name" : "null",
-        "email" : "null",
+        "name" : "Aditya Mohan Srivastava",
+        "email" : "22f3002752@ds.study.iitm.ac.in",
         "links" : {
-            "github" : "",
-            "linkedin" : "",
-            "instagram" : "",
-            "personal-website" : "",
-        }
-        "photo" : "",
-        "shortIntro" : "",
-        "position" : "",
+            "github" : "https://github.com/aditya22f3002752",
+            "linkedin" : "https://www.linkedin.com/in/aditya-mohan-srivastava-4b7534227/",
+            "instagram" : "https://www.instagram.com/aditya_stv/",
+            "personal-website" : "https://adityamohansrivastava.me/",
+        },
+        "photo" : "https://drive.google.com/file/d/1PZ04vGHmsZgqwLRdh4DpgGWoQdRsFJfl/view?usp=sharing",
+        "shortIntro" : "Foundation level IITM BS student intrested in - Web development : Content designing : Poems : Startups and entrepreneurship ",
+        "position" : "Creative Team",
     },
 ]
